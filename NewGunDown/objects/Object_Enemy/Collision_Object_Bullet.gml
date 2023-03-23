@@ -2,7 +2,7 @@ HP -= 2;
 
 if(HP <= 0)
 {
-	Emeralds =+ random_range(20,35)
+	global.Emeralds += random_range(20,35)
 	instance_destroy(self);
 }
 

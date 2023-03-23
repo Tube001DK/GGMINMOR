@@ -1,11 +1,5 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 73E70C49
-/// @DnDArgument : "var" "Emeralds"
-Emeralds = 0;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
 /// @DnDHash : 1CD96601
 /// @DnDArgument : "expr" "20"
 /// @DnDArgument : "var" "HPHero"
