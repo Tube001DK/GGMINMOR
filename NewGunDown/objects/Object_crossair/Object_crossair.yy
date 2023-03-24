@@ -1,15 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_Sniper",
+  "name": "Object_crossair",
   "spriteId": {
-    "name": "Sprite_Enemy22",
-    "path": "sprites/Sprite_Enemy22/Sprite_Enemy22.yy",
+    "name": "Sprite_snipercross",
+    "path": "sprites/Sprite_snipercross/Sprite_snipercross.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Sprite_snipercross",
+    "path": "sprites/Sprite_snipercross/Sprite_snipercross.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -24,14 +27,11 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "NewGunDown",
-    "path": "NewGunDown.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }

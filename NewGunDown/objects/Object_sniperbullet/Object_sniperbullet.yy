@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_Sniper",
+  "name": "Object_sniperbullet",
   "spriteId": {
-    "name": "Sprite_Enemy22",
-    "path": "sprites/Sprite_Enemy22/Sprite_Enemy22.yy",
+    "name": "Sprite_bulletsniper",
+    "path": "sprites/Sprite_bulletsniper/Sprite_bulletsniper.yy",
   },
   "solid": false,
   "visible": true,
