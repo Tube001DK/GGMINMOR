@@ -2,7 +2,7 @@
 sprite_index = Sprite_bulletsniper;
 
 // Set the initial speed and direction of the bullet
-speed = 3;
+speed = 0.1;
 direction = 1;
 
 // Set the collision mask to a precise pixel mask
