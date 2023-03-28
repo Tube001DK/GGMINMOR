@@ -13,7 +13,7 @@ var dir = point_direction(sniper_x, sniper_y, player_x, player_y);
 image_angle = dir;
 
 // Check if the player is within range of the sniper
-if point_distance(sniper_x, sniper_y, player_x, player_y) < 300 {
+if point_distance(sniper_x, sniper_y, player_x, player_y) < 900 {
     // Create a bullet instance that moves towards the player
     var bullet = instance_create_layer(sniper_x, sniper_y, "Instances", Object_sniperbullet);
     bullet.direction = dir;

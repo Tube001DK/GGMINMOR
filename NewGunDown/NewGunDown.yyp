@@ -23,6 +23,7 @@
     {"id":{"name":"Cardboard","path":"sprites/Cardboard/Cardboard.yy",},"order":28,},
     {"id":{"name":"obj_currency","path":"objects/obj_currency/obj_currency.yy",},"order":22,},
     {"id":{"name":"Object_boss","path":"objects/Object_boss/Object_boss.yy",},"order":22,},
+    {"id":{"name":"Sprite38","path":"sprites/Sprite38/Sprite38.yy",},"order":35,},
     {"id":{"name":"Tile_Walls","path":"tilesets/Tile_Walls/Tile_Walls.yy",},"order":3,},
     {"id":{"name":"Start","path":"rooms/Start/Start.yy",},"order":4,},
     {"id":{"name":"Continue","path":"sprites/Continue/Continue.yy",},"order":13,},
