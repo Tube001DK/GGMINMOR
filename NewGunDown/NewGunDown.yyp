@@ -7,6 +7,7 @@
     {"id":{"name":"Sprite_Enemy22","path":"sprites/Sprite_Enemy22/Sprite_Enemy22.yy",},"order":11,},
     {"id":{"name":"Object_grenade","path":"objects/Object_grenade/Object_grenade.yy",},"order":16,},
     {"id":{"name":"Sprite_RestartButton","path":"sprites/Sprite_RestartButton/Sprite_RestartButton.yy",},"order":7,},
+    {"id":{"name":"Room6","path":"rooms/Room6/Room6.yy",},"order":9,},
     {"id":{"name":"Sprite_Hero","path":"sprites/Sprite_Hero/Sprite_Hero.yy",},"order":15,},
     {"id":{"name":"Snd_AttackEnemy","path":"sounds/Snd_AttackEnemy/Snd_AttackEnemy.yy",},"order":2,},
     {"id":{"name":"Sprite_Character","path":"sprites/Sprite_Character/Sprite_Character.yy",},"order":1,},
@@ -97,6 +98,7 @@
     {"roomId":{"name":"Lvl2","path":"rooms/Lvl2/Lvl2.yy",},},
     {"roomId":{"name":"Lvl3","path":"rooms/Lvl3/Lvl3.yy",},},
     {"roomId":{"name":"Lvl4","path":"rooms/Lvl4/Lvl4.yy",},},
+    {"roomId":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy","order":12,},
