@@ -13,11 +13,9 @@ var dir = point_direction(sniper_x, sniper_y, player_x, player_y);
 image_angle = dir;
 
 // Check if the player is within range of the sniper
-if point_distance(sniper_x, sniper_y, player_x, player_y) < 900 {
+if point_distance(sniper_x, sniper_y, player_x, player_y) < 600 {
     // Create a bullet instance that moves towards the player
-    var bullet = instance_create_layer(sniper_x, sniper_y, "Instances", Object_sniperbullet);
-    bullet.direction = dir;
-    bullet.speed = 6;
+   CooldownSniperbullet += -1;
 }
 
 if (instance_exists(Obj_Sniper)) {
@@ -37,12 +35,11 @@ if (target != noone) {
 }
 
 // Shooting
-fire_timer -= 8;
 
-if (fire_timer <= 0 && target != noone) {
-    var bullet_speed = 6;
-    var bullet = instance_create_layer(x, y, "Instances", );
-    bullet.direction = image_angle;
-    bullet.speed = bullet_speed;
-    fire_timer = fire_rate;
+
+if(CooldownSniperbullet <= 0)
+{
+	CooldownSniperbullet = 180;
+	instance_create_layer(x, y, "Instances", Object_sniperbullet);
+	show_debug_message("Here")
 }
