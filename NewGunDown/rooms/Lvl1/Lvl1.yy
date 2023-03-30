@@ -100,6 +100,7 @@
     {"name":"inst_4A2E9FF","path":"rooms/Lvl1/Lvl1.yy",},
     {"name":"inst_22B4CE43","path":"rooms/Lvl1/Lvl1.yy",},
     {"name":"inst_137C2152","path":"rooms/Lvl1/Lvl1.yy",},
+    {"name":"inst_44331739","path":"rooms/Lvl1/Lvl1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
