@@ -42,7 +42,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4A2E9FF","properties":[],"isDnd":false,"objectId":{"name":"Shop_Grenade","path":"objects/Shop_Grenade/Shop_Grenade.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":128.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_22B4CE43","properties":[],"isDnd":false,"objectId":{"name":"obj_currency","path":"objects/obj_currency/obj_currency.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":361.0,"y":459.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_137C2152","properties":[],"isDnd":false,"objectId":{"name":"Obj_Sniper","path":"objects/Obj_Sniper/Obj_Sniper.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":-89.94328,"scaleX":0.311,"scaleY":0.311,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":416.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_44331739","properties":[],"isDnd":false,"objectId":{"name":"Object_boss","path":"objects/Object_boss/Object_boss.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.54285717,"scaleY":0.42857143,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":160.0,},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_2","tilesetId":null,"x":0,"y":0,"tiles":{"SerialiseWidth":0,"SerialiseHeight":0,"TileSerialiseData":[
 ],},"visible":false,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
@@ -101,7 +100,6 @@
     {"name":"inst_4A2E9FF","path":"rooms/Lvl1/Lvl1.yy",},
     {"name":"inst_22B4CE43","path":"rooms/Lvl1/Lvl1.yy",},
     {"name":"inst_137C2152","path":"rooms/Lvl1/Lvl1.yy",},
-    {"name":"inst_44331739","path":"rooms/Lvl1/Lvl1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
