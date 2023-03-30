@@ -35,7 +35,32 @@ if(CooldownSniperbullet <= 0)
 {
 	CooldownSniperbullet = 180;
 	instance_create_layer(x, y, "Instances", Object_sniperbullet);
-	
+	instance_create_layer(x, y, "Instances", Object_sniperbullet);
+
+has_fired_bullet = true;
 }
 
+else {
+has_fired_bullet = false;
+}
 
+// Move the sniper sprite if it has fired a bullet
+if (has_fired_bullet) {
+// Add code here to move the sniper sprite, e.g.
+Obj_Sniper.x += 2;
+}
+
+// Stop and Start Animation
+if speed = 1 {
+    image_speed = 0;
+} else {
+    image_speed = 0.1;
+}
+
+if CooldownSniperbullet = 0 {
+	image_speed = 0.1;
+} else {
+	image_speed = 0;
+
+}
+}
