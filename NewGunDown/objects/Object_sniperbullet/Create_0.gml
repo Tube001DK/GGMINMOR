@@ -2,7 +2,7 @@
 sprite_index = Sprite_bulletsniper;
 
 // Set the initial speed and direction of the bullet
-speed = 6;
+speed = 7;
 direction = point_direction(x, y, Object_Character.x, Object_Character.y);
 image_angle = direction
 
