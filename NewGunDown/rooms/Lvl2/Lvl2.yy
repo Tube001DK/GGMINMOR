@@ -36,10 +36,6 @@
     {"name":"inst_F849565","path":"rooms/Lvl2/Lvl2.yy",},
     {"name":"inst_7CFD5C4B","path":"rooms/Lvl2/Lvl2.yy",},
     {"name":"inst_6F7FFE7D","path":"rooms/Lvl2/Lvl2.yy",},
-    {"name":"inst_31AE1B28","path":"rooms/Lvl2/Lvl2.yy",},
-    {"name":"inst_7DAEF3A1","path":"rooms/Lvl2/Lvl2.yy",},
-    {"name":"inst_245100C8","path":"rooms/Lvl2/Lvl2.yy",},
-    {"name":"inst_6EE764C5","path":"rooms/Lvl2/Lvl2.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -78,13 +74,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_931185F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object_Enemy","path":"objects/Object_Enemy/Object_Enemy.yy",},"properties":[],"rotation":-5.021183,"scaleX":0.31139258,"scaleY":0.31139255,"x":640.0,"y":192.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6BAFABB9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object_Enemy","path":"objects/Object_Enemy/Object_Enemy.yy",},"properties":[],"rotation":169.94736,"scaleX":0.31139258,"scaleY":0.31139255,"x":1056.0,"y":224.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_58AE9A7D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object_Enemy","path":"objects/Object_Enemy/Object_Enemy.yy",},"properties":[],"rotation":184.97017,"scaleX":0.31139258,"scaleY":0.31139255,"x":1056.0,"y":160.0,},
-<<<<<<< Updated upstream
-=======
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_31AE1B28","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object_Enemy","path":"objects/Object_Enemy/Object_Enemy.yy",},"properties":[],"rotation":166.0,"scaleX":0.3113926,"scaleY":0.3113926,"x":1216.0,"y":480.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7DAEF3A1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object_Enemy","path":"objects/Object_Enemy/Object_Enemy.yy",},"properties":[],"rotation":156.0,"scaleX":0.3113926,"scaleY":0.3113926,"x":1184.0,"y":576.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_245100C8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object_Enemy","path":"objects/Object_Enemy/Object_Enemy.yy",},"properties":[],"rotation":0.0,"scaleX":0.3113926,"scaleY":0.3113926,"x":288.0,"y":160.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6EE764C5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object_Enemy","path":"objects/Object_Enemy/Object_Enemy.yy",},"properties":[],"rotation":0.0,"scaleX":0.3113926,"scaleY":0.3113926,"x":128.0,"y":96.0,},
->>>>>>> Stashed changes
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_2","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":24,"SerialiseWidth":43,"TileCompressedData":[
 -14,-2147483648,2,4,5,-41,-2147483648,2,14,15,-29,-2147483648,16,46,47,46,47,46,47,46,47,46,47,46,47,64,65,66,67,-27,-2147483648,16,56,57,56,57,56,57,56,57,56,57,56,

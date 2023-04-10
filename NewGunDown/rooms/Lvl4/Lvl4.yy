@@ -79,11 +79,7 @@
   },
   "sequenceId": null,
   "views": [
-<<<<<<< Updated upstream
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
-=======
-    {"hborder":400,"hport":768,"hspeed":-1,"hview":350,"inherit":false,"objectId":{"name":"Object_Character","path":"objects/Object_Character/Object_Character.yy",},"vborder":300,"visible":true,"vspeed":-1,"wport":1366,"wview":650,"xport":0,"xview":0,"yport":0,"yview":0,},
->>>>>>> Stashed changes
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
@@ -95,11 +91,7 @@
   "viewSettings": {
     "clearDisplayBuffer": true,
     "clearViewBackground": false,
-<<<<<<< Updated upstream
     "enableViews": false,
-=======
-    "enableViews": true,
->>>>>>> Stashed changes
     "inheritViewSettings": false,
   },
   "volume": 1.0,
