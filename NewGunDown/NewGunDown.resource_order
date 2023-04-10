@@ -48,7 +48,7 @@
     {"name":"Sprite15","order":8,"path":"sprites/Sprite15/Sprite15.yy",},
     {"name":"obj_healthbar","order":21,"path":"objects/obj_healthbar/obj_healthbar.yy",},
     {"name":"Sprite_exp","order":9,"path":"sprites/Sprite_exp/Sprite_exp.yy",},
-    {"name":"Sprite39","order":37,"path":"sprites/Sprite39/Sprite39.yy",},
+    {"name":"Sprite_shopper","order":37,"path":"sprites/Sprite_shopper/Sprite_shopper.yy",},
     {"name":"Object_Character","order":1,"path":"objects/Object_Character/Object_Character.yy",},
     {"name":"Object_Bullet","order":2,"path":"objects/Object_Bullet/Object_Bullet.yy",},
     {"name":"Sprite_flame","order":20,"path":"sprites/Sprite_flame/Sprite_flame.yy",},

@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite39",
-    "path": "sprites/Sprite39/Sprite39.yy",
+    "name": "Sprite_shopper",
+    "path": "sprites/Sprite_shopper/Sprite_shopper.yy",
   },
   "spriteMaskId": null,
   "visible": true,
