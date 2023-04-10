@@ -36,8 +36,14 @@
     {"id":{"name":"obj_cardboard","path":"objects/obj_cardboard/obj_cardboard.yy",},},
     {"id":{"name":"Sprite_Enemy22","path":"sprites/Sprite_Enemy22/Sprite_Enemy22.yy",},},
     {"id":{"name":"Object_grenade","path":"objects/Object_grenade/Object_grenade.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"Sprite_RestartButton","path":"sprites/Sprite_RestartButton/Sprite_RestartButton.yy",},},
     {"id":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
+=======
+    {"id":{"name":"Sprite39","path":"sprites/Sprite39/Sprite39.yy",},},
+    {"id":{"name":"Sprite_RestartButton","path":"sprites/Sprite_RestartButton/Sprite_RestartButton.yy",},},
+    {"id":{"name":"BossLVL","path":"rooms/BossLVL/BossLVL.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"Sprite_Hero","path":"sprites/Sprite_Hero/Sprite_Hero.yy",},},
     {"id":{"name":"Snd_AttackEnemy","path":"sounds/Snd_AttackEnemy/Snd_AttackEnemy.yy",},},
     {"id":{"name":"Sprite_Character","path":"sprites/Sprite_Character/Sprite_Character.yy",},},
@@ -51,6 +57,10 @@
     {"id":{"name":"Object_flame","path":"objects/Object_flame/Object_flame.yy",},},
     {"id":{"name":"Sprite_Enemey","path":"sprites/Sprite_Enemey/Sprite_Enemey.yy",},},
     {"id":{"name":"obj_continuer","path":"objects/obj_continuer/obj_continuer.yy",},},
+<<<<<<< Updated upstream
+=======
+    {"id":{"name":"oEnd","path":"objects/oEnd/oEnd.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"Cardboard","path":"sprites/Cardboard/Cardboard.yy",},},
     {"id":{"name":"obj_currency","path":"objects/obj_currency/obj_currency.yy",},},
     {"id":{"name":"Object_boss","path":"objects/Object_boss/Object_boss.yy",},},
@@ -72,7 +82,10 @@
     {"id":{"name":"Object_crossair","path":"objects/Object_crossair/Object_crossair.yy",},},
     {"id":{"name":"Object_Quit","path":"objects/Object_Quit/Object_Quit.yy",},},
     {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"Object_shopman","path":"objects/Object_shopman/Object_shopman.yy",},},
+=======
+>>>>>>> Stashed changes
     {"id":{"name":"object_button_continue","path":"objects/object_button_continue/object_button_continue.yy",},},
     {"id":{"name":"Obj_Sniper","path":"objects/Obj_Sniper/Obj_Sniper.yy",},},
     {"id":{"name":"Arial_Black","path":"fonts/Arial_Black/Arial_Black.yy",},},
@@ -81,7 +94,10 @@
     {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
     {"id":{"name":"obj_healthbar","path":"objects/obj_healthbar/obj_healthbar.yy",},},
     {"id":{"name":"Sprite_exp","path":"sprites/Sprite_exp/Sprite_exp.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"Sprite39","path":"sprites/Sprite39/Sprite39.yy",},},
+=======
+>>>>>>> Stashed changes
     {"id":{"name":"Object_Character","path":"objects/Object_Character/Object_Character.yy",},},
     {"id":{"name":"Object_Enemy","path":"objects/Object_Enemy/Object_Enemy.yy",},},
     {"id":{"name":"Object_Bullet","path":"objects/Object_Bullet/Object_Bullet.yy",},},
@@ -119,7 +135,11 @@
     {"roomId":{"name":"Lvl2","path":"rooms/Lvl2/Lvl2.yy",},},
     {"roomId":{"name":"Lvl3","path":"rooms/Lvl3/Lvl3.yy",},},
     {"roomId":{"name":"Lvl4","path":"rooms/Lvl4/Lvl4.yy",},},
+<<<<<<< Updated upstream
     {"roomId":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
+=======
+    {"roomId":{"name":"BossLVL","path":"rooms/BossLVL/BossLVL.yy",},},
+>>>>>>> Stashed changes
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

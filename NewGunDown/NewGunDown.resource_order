@@ -4,8 +4,14 @@
     {"name":"obj_cardboard","order":24,"path":"objects/obj_cardboard/obj_cardboard.yy",},
     {"name":"Sprite_Enemy22","order":11,"path":"sprites/Sprite_Enemy22/Sprite_Enemy22.yy",},
     {"name":"Object_grenade","order":16,"path":"objects/Object_grenade/Object_grenade.yy",},
+<<<<<<< Updated upstream
     {"name":"Sprite_RestartButton","order":7,"path":"sprites/Sprite_RestartButton/Sprite_RestartButton.yy",},
     {"name":"Room6","order":9,"path":"rooms/Room6/Room6.yy",},
+=======
+    {"name":"Sprite39","order":9,"path":"sprites/Sprite39/Sprite39.yy",},
+    {"name":"Sprite_RestartButton","order":7,"path":"sprites/Sprite_RestartButton/Sprite_RestartButton.yy",},
+    {"name":"BossLVL","order":9,"path":"rooms/BossLVL/BossLVL.yy",},
+>>>>>>> Stashed changes
     {"name":"Sprite_Hero","order":15,"path":"sprites/Sprite_Hero/Sprite_Hero.yy",},
     {"name":"Snd_AttackEnemy","order":2,"path":"sounds/Snd_AttackEnemy/Snd_AttackEnemy.yy",},
     {"name":"Sprite_Character","order":1,"path":"sprites/Sprite_Character/Sprite_Character.yy",},
@@ -18,6 +24,10 @@
     {"name":"Object_flame","order":21,"path":"objects/Object_flame/Object_flame.yy",},
     {"name":"Sprite_Enemey","order":18,"path":"sprites/Sprite_Enemey/Sprite_Enemey.yy",},
     {"name":"obj_continuer","order":25,"path":"objects/obj_continuer/obj_continuer.yy",},
+<<<<<<< Updated upstream
+=======
+    {"name":"oEnd","order":10,"path":"objects/oEnd/oEnd.yy",},
+>>>>>>> Stashed changes
     {"name":"Cardboard","order":28,"path":"sprites/Cardboard/Cardboard.yy",},
     {"name":"obj_currency","order":22,"path":"objects/obj_currency/obj_currency.yy",},
     {"name":"Object_boss","order":22,"path":"objects/Object_boss/Object_boss.yy",},
@@ -39,7 +49,10 @@
     {"name":"Object_crossair","order":27,"path":"objects/Object_crossair/Object_crossair.yy",},
     {"name":"Object_Quit","order":5,"path":"objects/Object_Quit/Object_Quit.yy",},
     {"name":"Sprite14","order":6,"path":"sprites/Sprite14/Sprite14.yy",},
+<<<<<<< Updated upstream
     {"name":"Object_shopman","order":38,"path":"objects/Object_shopman/Object_shopman.yy",},
+=======
+>>>>>>> Stashed changes
     {"name":"object_button_continue","order":19,"path":"objects/object_button_continue/object_button_continue.yy",},
     {"name":"Obj_Sniper","order":26,"path":"objects/Obj_Sniper/Obj_Sniper.yy",},
     {"name":"Arial_Black","order":1,"path":"fonts/Arial_Black/Arial_Black.yy",},
@@ -48,7 +61,10 @@
     {"name":"Sprite15","order":8,"path":"sprites/Sprite15/Sprite15.yy",},
     {"name":"obj_healthbar","order":21,"path":"objects/obj_healthbar/obj_healthbar.yy",},
     {"name":"Sprite_exp","order":9,"path":"sprites/Sprite_exp/Sprite_exp.yy",},
+<<<<<<< Updated upstream
     {"name":"Sprite39","order":37,"path":"sprites/Sprite39/Sprite39.yy",},
+=======
+>>>>>>> Stashed changes
     {"name":"Object_Character","order":1,"path":"objects/Object_Character/Object_Character.yy",},
     {"name":"Object_Bullet","order":2,"path":"objects/Object_Bullet/Object_Bullet.yy",},
     {"name":"Sprite_flame","order":20,"path":"sprites/Sprite_flame/Sprite_flame.yy",},
