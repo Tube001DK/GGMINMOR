@@ -63,6 +63,7 @@
     {"name":"ShopText","order":23,"path":"objects/ShopText/ShopText.yy",},
     {"name":"Lvl4","order":8,"path":"rooms/Lvl4/Lvl4.yy",},
     {"name":"Shop_Grenade","order":20,"path":"objects/Shop_Grenade/Shop_Grenade.yy",},
+    {"name":"Sprite40","order":15,"path":"sprites/Sprite40/Sprite40.yy",},
     {"name":"obj_exit","order":26,"path":"objects/obj_exit/obj_exit.yy",},
     {"name":"Sprite32","order":30,"path":"sprites/Sprite32/Sprite32.yy",},
     {"name":"Sprite_ContinueButton","order":6,"path":"sprites/Sprite_ContinueButton/Sprite_ContinueButton.yy",},

@@ -99,6 +99,7 @@
     {"id":{"name":"ShopText","path":"objects/ShopText/ShopText.yy",},},
     {"id":{"name":"Lvl4","path":"rooms/Lvl4/Lvl4.yy",},},
     {"id":{"name":"Shop_Grenade","path":"objects/Shop_Grenade/Shop_Grenade.yy",},},
+    {"id":{"name":"Sprite40","path":"sprites/Sprite40/Sprite40.yy",},},
     {"id":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},},
     {"id":{"name":"Sprite32","path":"sprites/Sprite32/Sprite32.yy",},},
     {"id":{"name":"Sprite_ContinueButton","path":"sprites/Sprite_ContinueButton/Sprite_ContinueButton.yy",},},
