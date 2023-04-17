@@ -1,5 +1,7 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"group1","order":3,"path":"folders/Sounds/group1.yy",},
+  ],
   "ResourceOrderSettings": [
     {"name":"obj_cardboard","order":24,"path":"objects/obj_cardboard/obj_cardboard.yy",},
     {"name":"Sprite_Enemy22","order":11,"path":"sprites/Sprite_Enemy22/Sprite_Enemy22.yy",},
@@ -26,6 +28,7 @@
     {"name":"Start","order":4,"path":"rooms/Start/Start.yy",},
     {"name":"Lvl3","order":7,"path":"rooms/Lvl3/Lvl3.yy",},
     {"name":"Continue","order":13,"path":"sprites/Continue/Continue.yy",},
+    {"name":"Boss_sound","order":4,"path":"sounds/Boss_sound/Boss_sound.yy",},
     {"name":"Sprite_Boss","order":19,"path":"sprites/Sprite_Boss/Sprite_Boss.yy",},
     {"name":"Shop","order":36,"path":"objects/Shop/Shop.yy",},
     {"name":"Sprite28","order":29,"path":"sprites/Sprite28/Sprite28.yy",},
