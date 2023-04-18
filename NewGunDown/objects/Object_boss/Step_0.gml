@@ -34,26 +34,16 @@ if(CooldownBossBullet <= 0)
 }
 
 // Stop and Start Animation
-if speed = 0 {
-    image_speed = 0;
+if speed = 2 
+image_speed = 0.2;
 	
 
 	
 	
 	
-} else {
-    image_speed = 0.2;
-	if (runawayboss = true) {
 
-	}
-	else if (runawayboss = false) {
-		direction = point_direction(x, y, char2.x, char2.y);
+	
 
-		image_angle = direction;
-	}
-	
-	
-}
 
 current_room = room;
 
