@@ -27,7 +27,16 @@ if(CooldownBullet <= 0)
 					l37820247_0 = mouse_check_button(mb_left);
 					if (l37820247_0)
 					{
-						instance_create_layer(x, y, "Instances", Object_Bullet);
+						var spawnDistance = 35; // Adjust this value as desired
+
+// Calculate the spawn position
+
+var spawnX = x + spawnDistance * cos(degtorad(direction));
+var spawnY = y - spawnDistance * sin(degtorad(direction));
+
+// Create the object at the spawn position
+instance_create_layer(spawnX, spawnY, "Instances" ,Object_Bullet);
+
 						audio_play_sound(Snd_ShotChar,9,false)
 					}
 				}

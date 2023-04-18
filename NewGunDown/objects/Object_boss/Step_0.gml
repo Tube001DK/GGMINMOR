@@ -14,23 +14,16 @@ if runawayboss=false && chaseboss=false && distance_to_object(char2) < 200 {
     runawayboss=false;
 }
 
-// New Proximity Trigger for Chase (Only one for life of instance)
-if chaseboss=true && runawayboss=false && distance_to_object(char2) < 400{
-    move_towards_point(char2.x,char2.y,1);
-}
+
 
 // If Char is more than 400 pixels away, stop Chase
 if chaseboss=true && runawayboss=false && distance_to_object(char2) > 400 {
     move_towards_point(char2.x,char2.y,0);
 }
 
-// Flee in random direction away from Char after Collision Event with Char
-if chaseboss=false && runawayboss=true {
-    move_towards_point(char2.x,char2.y,1);
-    playerdirection = point_direction(x,y,char2.x,char2.y);
-    direction = (playerdirection + (180 + random(40)) );
+
 }
-}
+
 
 CooldownBossBullet += -1;
 
@@ -60,5 +53,10 @@ if speed = 0 {
 	}
 	
 	
+}
 
+current_room = room;
+
+if (current_room == Room6) {
+    audio_play_sound(Boss_sound,9,false);
 }
