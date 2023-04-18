@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite_Character",
-    "path": "sprites/Sprite_Character/Sprite_Character.yy",
+    "name": "Sprite40",
+    "path": "sprites/Sprite40/Sprite40.yy",
   },
   "spriteMaskId": null,
   "visible": true,
